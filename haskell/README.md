@@ -11,6 +11,7 @@
 * Google - Haskell Training
   - [Haskell 101](https://www.youtube.com/watch?v=cTN1Qar4HSw)
   - [Haskell 102](https://www.youtube.com/watch?v=ug9yjnoyr4u)
+* [Parallel and Concurrent Haskell - Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
 
 ## Exercises
 
